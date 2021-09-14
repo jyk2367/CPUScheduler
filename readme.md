@@ -47,8 +47,9 @@ Process 4 8 4
 ![image](https://github.com/jyk2367/Scheduler/blob/%EC%8B%A4%ED%96%89_%EC%9D%B4%EB%AF%B8%EC%A7%80/Executed.png)  
 
 
-
-
+---  
+수정1. SJF Scheduling 파일 Menu2 수정
+수정2. Menu2 이미지 수정
 
 
 
