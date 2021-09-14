@@ -329,7 +329,7 @@ while(True):
     SJF = SJF_Algorithm()
     Menu = Tk()
     Menu.withdraw()
-    MENU = askinteger("Menu","1.SJF   2.NonSJF",minvalue=1,maxvalue=2)
+    MENU = askinteger("Menu","1.Preemptive   2.NonPreemptive",minvalue=1,maxvalue=2)
     Menu.destroy()
     # Menu 1 : Preemptive SJF Scheduling
     if MENU == 1:
