@@ -48,7 +48,7 @@ Process 4 8 4
 
 
 ---  
-수정1. SJF Scheduling 파일 Menu2 수정
+수정1. SJF Scheduling 파일 Menu2 수정  
 수정2. Menu2 이미지 수정
 
 
