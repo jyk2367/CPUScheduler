@@ -1,4 +1,4 @@
-## CPU Scheduler project
+# CPU Scheduler project
 
 >CPU 스케줄러 프로젝트입니다  
 >구현한 알고리즘은 다음과 같습니다  
@@ -19,5 +19,22 @@ Process 1 0 7
 Process 2 5 4 
 Process 3 6 1 
 Process 4 8 4
-```
+```  
+    
+  
+    
+    
+    
+# 사용 방법  
+1. 처음 시작했을 때 모습입니다. SJF, PriortyScheduling, Round-Robin Scheduling, Own Scheduling 중 선택할 수 있습니다  
+![image](https://github.com/jyk2367/Scheduler/blob/%EC%8B%A4%ED%96%89_%EC%9D%B4%EB%AF%B8%EC%A7%80/Menu.png){: .center}
+  
+2.
+
+
+
+
+
+
+
 
