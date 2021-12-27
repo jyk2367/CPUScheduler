@@ -25,7 +25,7 @@ Process 4 8 4
     
     
     
-# 사용 방법  
+# 사용 방법
 
 1. SJF, PriortyScheduling, Round-Robin Scheduling, Own Scheduling 중 선택할 수 있습니다.  
     
