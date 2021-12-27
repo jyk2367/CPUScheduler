@@ -26,30 +26,13 @@ Process 4 8 4
     
     
 # 사용 방법  
-1. 처음 시작했을 때 모습입니다. SJF, PriortyScheduling, Round-Robin Scheduling, Own Scheduling 중 선택할 수 있습니다.  
-![image](https://github.com/jyk2367/Scheduler/blob/%EC%8B%A4%ED%96%89_%EC%9D%B4%EB%AF%B8%EC%A7%80/Menu.png)   
-
-  
-  
+1. SJF, PriortyScheduling, Round-Robin Scheduling, Own Scheduling 중 선택할 수 있습니다.  
     
 2.선택했다면, 어떤 파일을 Scheduling할지 결정할 수 있습니다.    
-![image](https://github.com/jyk2367/Scheduler/blob/%EC%8B%A4%ED%96%89_%EC%9D%B4%EB%AF%B8%EC%A7%80/Select.png)   
-  
-  
-  
   
 3.Preemptive한지 Non-Preemptive한지 선택할 수 있습니다.  
-![image](https://github.com/jyk2367/Scheduler/blob/%EC%8B%A4%ED%96%89_%EC%9D%B4%EB%AF%B8%EC%A7%80/Menu2.png)  
-  
-  
   
 4.실행 결과를 출력합니다   
-![image](https://github.com/jyk2367/Scheduler/blob/%EC%8B%A4%ED%96%89_%EC%9D%B4%EB%AF%B8%EC%A7%80/Executed.png)  
-
-
----  
-수정1. SJF Scheduling 파일 Menu2 수정  
-수정2. Menu2 이미지 수정
 
 
 
