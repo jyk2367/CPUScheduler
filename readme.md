@@ -27,13 +27,10 @@ Process 4 8 4
     
 # 사용 방법
 
-1. SJF, PriortyScheduling, Round-Robin Scheduling, Own Scheduling 중 선택할 수 있습니다.  
-    
-2.선택했다면, 어떤 파일을 Scheduling할지 결정할 수 있습니다.    
-  
-3.Preemptive한지 Non-Preemptive한지 선택할 수 있습니다.  
-  
-4.실행 결과를 출력합니다   
+1. SJF, PriortyScheduling, Round-Robin Scheduling, Own Scheduling 중 선택할 수 있습니다.
+2. 선택했다면, 어떤 파일을 Scheduling할지 결정할 수 있습니다.    
+3. Preemptive한지 Non-Preemptive한지 선택할 수 있습니다.  
+4. 실행 결과를 출력합니다   
 
 
 
